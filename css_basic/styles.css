@@ -10,4 +10,9 @@ main {
 }
 article {
     flex: 2;
-    overflow-y: aut
+    overflow-y: auto;
+}
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
